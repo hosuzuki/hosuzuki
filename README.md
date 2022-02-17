@@ -2,7 +2,7 @@
 
 🧠 　I’m interested in machine learning and AI.
 
-📖 　I love reading books.
+📖 　I love reading books. My favorite book would be the "The Hitchhiker's Guide to the Galaxy."
 
 💻: I’m currently a student at 42 Tokyo learning C lang. 
 
