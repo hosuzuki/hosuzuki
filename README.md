@@ -1,8 +1,6 @@
 👋 　Hi, I’m Hokuto.
 
-🧠 　I’m interested in machine learning and AI.
-
-💻  I’m currently a student at 42 Tokyo learning C lang. 
+🧠 　I’m interested in machine learning and AI.　I’m currently a student at 42 Tokyo learning C lang. 
 
 📖 　I love reading books. My favorite book would be the "The Hitchhiker's Guide to the Galaxy."
 
