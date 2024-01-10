@@ -1,4 +1,4 @@
-👋 　Hi, I’m Hokuto.
+👋 　Hi, I’m Hector.
 
 🧠 　I’m interested in machine learning and AI.　I’m currently a student at 42 Tokyo learning C language. 
 
